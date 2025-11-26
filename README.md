@@ -1,4 +1,4 @@
-# Customer Churn Prediction in the Telecommunications Industry
+# Predicting Telco Customer Churn with Machine Learning
 
 ### Created by: Group Beta - Purwadhika Digital School - Data Science Bootcamp Program
 **Members:** 
